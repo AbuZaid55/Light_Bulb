@@ -6,7 +6,7 @@ Light bulb on off system using html,css and javaScript
 
 ## Screenshots
 
-![Screenshot_20230820_164846](https://github.com/AbuZaid55/Image_Gallery/assets/115403447/9822cca6-9479-466c-9fc0-46fe790ddf60)
+![Screenshot_20230827_055952](https://github.com/AbuZaid55/Light_Bulb/assets/115403447/4c72f3fc-d620-4365-bf42-4efa9de5f394)
 
 
 ## 🔗 Links
